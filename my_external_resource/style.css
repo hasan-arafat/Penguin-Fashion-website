@@ -1,0 +1,51 @@
+.navA{
+    font-weight:bold;
+    font-size:larger;       
+  }
+
+.header-img{
+    height: 30em;
+}
+
+.theme-color-orange{
+    color: #F9BE4B;
+}
+
+.theme-color-green{
+    color: #A3BC46;
+}
+.byeNow-btn{
+    background-color: #A3BC46;
+    color: #ffffff;
+}
+
+.byeNow-btn:hover{
+    background-color: #F9BE4B;
+}
+
+.card-img-bg{
+    width:24em;
+    height:24em;
+    background-color: #F0F0F0;
+}
+
+.card-img{
+    width:auto;
+    height:23em;
+    padding-top: 1em
+}
+
+.card-border{
+    border: none;
+    border-radius: 1em;
+}
+
+.contact-img-size{
+    width:5em;
+    height:5em;;
+}
+
+.contactHover:hover{
+    color: #F9BE4B;
+    transition: color 0.4s;
+}
